@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.btn{
+  background-color: green;
+  color: whitesmoke;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
